@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="D:\Data_Acq\Vitis_proj\Data_Acq_App\_ide\bootimage\BOOT.bin" key="bootgen_files_selection"/>
+	<item value="D:\Data_Acq\Vivado_proj" key="scw_hwspec_file_selection"/>
+	<item value="D:\Data_Acq\Data_Acq_1" key="scw_hwspec"/>
+</section>

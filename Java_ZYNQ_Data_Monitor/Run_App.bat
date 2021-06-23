@@ -1,0 +1,1 @@
+java -jar "dist\Java_ZYNQ_Data_Monitor.jar"

@@ -1,0 +1,35 @@
+01:50:25 **** Incremental Build of configuration Debug for project lwip_test ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+'Building file: ../src/freertos_tcp_perf_server.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/freertos_tcp_perf_server.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Data_Acq/Data_Acq_1/vitis_sw/hw_platform/export/hw_platform/sw/hw_platform/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"src/freertos_tcp_perf_server.d" -MT"src/freertos_tcp_perf_server.o" -o "src/freertos_tcp_perf_server.o" "../src/freertos_tcp_perf_server.c"
+'Finished building: ../src/freertos_tcp_perf_server.c'
+' '
+'Building file: ../src/iic_phyreset.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/iic_phyreset.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Data_Acq/Data_Acq_1/vitis_sw/hw_platform/export/hw_platform/sw/hw_platform/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"src/iic_phyreset.d" -MT"src/iic_phyreset.o" -o "src/iic_phyreset.o" "../src/iic_phyreset.c"
+'Finished building: ../src/iic_phyreset.c'
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Data_Acq/Data_Acq_1/vitis_sw/hw_platform/export/hw_platform/sw/hw_platform/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: lwip_test.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LD:/Data_Acq/Data_Acq_1/vitis_sw/hw_platform/export/hw_platform/sw/hw_platform/freertos10_xilinx_domain/bsplib/lib -o "lwip_test.elf"  ./src/freertos_tcp_perf_server.o ./src/iic_phyreset.o ./src/main.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: lwip_test.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size lwip_test.elf  |tee "lwip_test.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158052	   3388	2218048	2379488	 244ee0	lwip_test.elf
+'Finished building: lwip_test.elf.size'
+' '
+
+01:50:27 Build Finished (took 2s.492ms)
+

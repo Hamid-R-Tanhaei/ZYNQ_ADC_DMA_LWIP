@@ -1,0 +1,271 @@
+timestamp=[2021-06-20 06:20:09], mode=WORKBENCH_START, duration=0:00:08.181, duration_ms=8181, data={}
+timestamp=[2021-06-20 06:20:10], mode=WORKBENCH_UI_INIT, duration=0:00:00.729, duration_ms=729, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2021-06-20 06:20:16], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:04.830, duration_ms=4830, data={}
+timestamp=[2021-06-20 06:22:21], mode=PLATFORM_CREATION, duration=0:00:24.564, duration_ms=24564, data={platform_source=dsa, os=freertos10_xilinx, processor=ps7_cortexa9, platform=null}
+timestamp=[2021-06-20 06:26:27], mode=PLATFORM_GENERATION, duration=0:01:28.048, duration_ms=88048, data={name=hw_platform}
+timestamp=[2021-06-20 06:34:24], mode=APP_CREATION, duration=0:00:09.442, duration_ms=9442, data={name=Data_Acq_App, project_type=sdk, os=freertos10_xilinx, processor=cortex-a9, runtime=C/C++, platform=hw_platform, application_type=application}
+timestamp=[2021-06-20 06:45:57], mode=BUILD, duration=0:00:01.952, duration_ms=1952, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 06:47:28], mode=BUILD, duration=0:00:01.139, duration_ms=1139, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 06:48:04], mode=BUILD, duration=0:00:01.438, duration_ms=1438, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 06:54:18], mode=BUILD, duration=0:00:01.386, duration_ms=1386, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 07:02:00], mode=BUILD, duration=0:00:01.579, duration_ms=1579, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 07:12:39], mode=WORKBENCH_START, duration=0:00:13.013, duration_ms=13013, data={}
+timestamp=[2021-06-20 07:12:40], mode=WORKBENCH_UI_INIT, duration=0:00:01.044, duration_ms=1044, data={editors_count=5, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform}
+timestamp=[2021-06-20 07:12:40], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.058, duration_ms=58, data={}
+timestamp=[2021-06-20 07:19:02], mode=PLATFORM_GENERATION, duration=0:00:03.092, duration_ms=3092, data={name=hw_platform}
+timestamp=[2021-06-20 07:19:04], mode=BUILD, duration=0:00:01.968, duration_ms=1968, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 07:20:05], mode=BUILD, duration=0:00:01.398, duration_ms=1398, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 07:28:42], mode=APP_CREATION, duration=0:00:11.034, duration_ms=11034, data={name=lwip_test, project_type=sdk, os=freertos10_xilinx, processor=cortex-a9, runtime=C/C++, platform=hw_platform, application_type=application}
+timestamp=[2021-06-20 07:29:36], mode=BUILD, duration=0:00:02.091, duration_ms=2091, data={name=lwip_test, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 19:54:57], mode=WORKBENCH_START, duration=0:00:18.061, duration_ms=18061, data={}
+timestamp=[2021-06-20 19:54:59], mode=WORKBENCH_UI_INIT, duration=0:00:01.406, duration_ms=1406, data={editors_count=8, platform_editors_count=1, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform,lwip_test,lwip_test_system}
+timestamp=[2021-06-20 19:54:59], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.084, duration_ms=84, data={}
+timestamp=[2021-06-20 20:20:42], mode=PLATFORM_GENERATION, duration=0:00:05.795, duration_ms=5795, data={name=hw_platform}
+timestamp=[2021-06-20 20:22:56], mode=BUILD, duration=0:00:00.931, duration_ms=931, data={name=lwip_test, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 20:37:32], mode=PLATFORM_GENERATION, duration=0:00:05.301, duration_ms=5301, data={name=hw_platform}
+timestamp=[2021-06-20 20:37:43], mode=BUILD, duration=0:00:00.596, duration_ms=596, data={name=lwip_test, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 20:50:30], mode=PLATFORM_GENERATION, duration=0:01:06.257, duration_ms=66257, data={name=hw_platform}
+timestamp=[2021-06-20 20:50:53], mode=BUILD, duration=0:00:03.258, duration_ms=3258, data={name=lwip_test, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 21:00:24], mode=PLATFORM_GENERATION, duration=0:00:03.441, duration_ms=3441, data={name=hw_platform}
+timestamp=[2021-06-20 21:00:31], mode=BUILD, duration=0:00:00.341, duration_ms=341, data={name=lwip_test, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 21:03:26], mode=PLATFORM_GENERATION, duration=0:00:41.900, duration_ms=41900, data={name=hw_platform}
+timestamp=[2021-06-20 21:03:45], mode=PLATFORM_GENERATION, duration=0:00:05.056, duration_ms=5056, data={name=hw_platform}
+timestamp=[2021-06-20 21:03:46], mode=BUILD, duration=0:00:00.200, duration_ms=200, data={name=lwip_test, configuration=Debug, clean_build=true}
+timestamp=[2021-06-20 21:04:59], mode=PLATFORM_GENERATION, duration=0:01:06.708, duration_ms=66708, data={name=hw_platform}
+timestamp=[2021-06-20 21:05:05], mode=BUILD, duration=0:00:02.219, duration_ms=2219, data={name=lwip_test, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 21:06:27], mode=PLATFORM_GENERATION, duration=0:00:04.810, duration_ms=4810, data={name=hw_platform}
+timestamp=[2021-06-20 21:06:28], mode=BUILD, duration=0:00:00.199, duration_ms=199, data={name=Data_Acq_App, configuration=Debug, clean_build=true}
+timestamp=[2021-06-20 21:08:03], mode=PLATFORM_GENERATION, duration=0:01:07.414, duration_ms=67414, data={name=hw_platform}
+timestamp=[2021-06-20 21:08:05], mode=BUILD, duration=0:00:02.173, duration_ms=2173, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 21:08:11], mode=BUILD, duration=0:00:00.337, duration_ms=337, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 21:18:35], mode=PLATFORM_GENERATION, duration=0:00:03.098, duration_ms=3098, data={name=hw_platform}
+timestamp=[2021-06-20 21:18:54], mode=BUILD, duration=0:00:00.330, duration_ms=330, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-20 23:10:04], mode=WORKBENCH_START, duration=0:00:18.814, duration_ms=18814, data={}
+timestamp=[2021-06-20 23:10:06], mode=WORKBENCH_UI_INIT, duration=0:00:01.662, duration_ms=1662, data={editors_count=7, platform_editors_count=0, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform,lwip_test,lwip_test_system}
+timestamp=[2021-06-20 23:10:06], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.088, duration_ms=88, data={}
+timestamp=[2021-06-21 00:05:57], mode=PLATFORM_GENERATION, duration=0:00:07.312, duration_ms=7312, data={name=hw_platform}
+timestamp=[2021-06-21 00:06:04], mode=BUILD, duration=0:00:04.144, duration_ms=4144, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 00:08:53], mode=BUILD, duration=0:00:00.780, duration_ms=780, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 01:30:47], mode=BUILD, duration=0:00:01.565, duration_ms=1565, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 01:37:49], mode=BUILD, duration=0:00:02.300, duration_ms=2300, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 01:43:54], mode=PLATFORM_GENERATION, duration=0:00:03.308, duration_ms=3308, data={name=hw_platform}
+timestamp=[2021-06-21 01:44:35], mode=BUILD, duration=0:00:00.461, duration_ms=461, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 01:47:16], mode=BUILD, duration=0:00:02.226, duration_ms=2226, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 01:50:27], mode=BUILD, duration=0:00:02.506, duration_ms=2506, data={name=lwip_test, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 02:48:22], mode=WORKBENCH_START, duration=0:00:15.170, duration_ms=15170, data={}
+timestamp=[2021-06-21 02:48:23], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.062, duration_ms=62, data={}
+timestamp=[2021-06-21 02:48:23], mode=WORKBENCH_UI_INIT, duration=0:00:01.571, duration_ms=1571, data={editors_count=5, platform_editors_count=3, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform,lwip_test,lwip_test_system}
+timestamp=[2021-06-21 02:48:42], mode=BUILD, duration=0:00:00.647, duration_ms=647, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 02:51:51], mode=PLATFORM_GENERATION, duration=0:00:58.298, duration_ms=58298, data={name=hw_platform}
+timestamp=[2021-06-21 02:52:03], mode=BUILD, duration=0:00:02.685, duration_ms=2685, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 02:57:32], mode=PLATFORM_GENERATION, duration=0:00:43.797, duration_ms=43797, data={name=hw_platform}
+timestamp=[2021-06-21 02:57:39], mode=BUILD, duration=0:00:02.391, duration_ms=2391, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:00:44], mode=PLATFORM_GENERATION, duration=0:00:43.704, duration_ms=43704, data={name=hw_platform}
+timestamp=[2021-06-21 03:01:24], mode=BUILD, duration=0:00:02.379, duration_ms=2379, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:09:00], mode=BUILD, duration=0:00:01.564, duration_ms=1564, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:10:41], mode=PLATFORM_GENERATION, duration=0:00:43.988, duration_ms=43988, data={name=hw_platform}
+timestamp=[2021-06-21 03:11:29], mode=PLATFORM_GENERATION, duration=0:00:07.162, duration_ms=7162, data={name=hw_platform}
+timestamp=[2021-06-21 03:11:30], mode=BUILD, duration=0:00:00.301, duration_ms=301, data={name=Data_Acq_App, configuration=Debug, clean_build=true}
+timestamp=[2021-06-21 03:13:12], mode=PLATFORM_GENERATION, duration=0:01:38.947, duration_ms=98947, data={name=hw_platform}
+timestamp=[2021-06-21 03:13:19], mode=BUILD, duration=0:00:03.259, duration_ms=3259, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:14:08], mode=BUILD, duration=0:00:00.476, duration_ms=476, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:15:47], mode=PLATFORM_GENERATION, duration=0:00:43.279, duration_ms=43279, data={name=hw_platform}
+timestamp=[2021-06-21 03:15:50], mode=BUILD, duration=0:00:02.878, duration_ms=2878, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:27:31], mode=BUILD, duration=0:00:00.947, duration_ms=947, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:28:49], mode=BUILD, duration=0:00:00.847, duration_ms=847, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:36:21], mode=BUILD, duration=0:00:01.994, duration_ms=1994, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:38:49], mode=BUILD, duration=0:00:01.899, duration_ms=1899, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:39:38], mode=BUILD, duration=0:00:00.855, duration_ms=855, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:39:54], mode=BUILD, duration=0:00:01.570, duration_ms=1570, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:42:27], mode=BUILD, duration=0:00:01.950, duration_ms=1950, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:43:08], mode=BUILD, duration=0:00:00.852, duration_ms=852, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:43:34], mode=BUILD, duration=0:00:01.577, duration_ms=1577, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:44:28], mode=BUILD, duration=0:00:01.588, duration_ms=1588, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:45:33], mode=PLATFORM_GENERATION, duration=0:00:45.252, duration_ms=45252, data={name=hw_platform}
+timestamp=[2021-06-21 03:50:50], mode=BUILD, duration=0:00:02.310, duration_ms=2310, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:52:22], mode=BUILD, duration=0:00:00.918, duration_ms=918, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:52:44], mode=BUILD, duration=0:00:01.631, duration_ms=1631, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:54:27], mode=BUILD, duration=0:00:00.470, duration_ms=470, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 03:59:16], mode=BUILD, duration=0:00:01.618, duration_ms=1618, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 04:00:24], mode=BUILD, duration=0:00:01.553, duration_ms=1553, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 04:16:13], mode=PLATFORM_GENERATION, duration=0:00:03.628, duration_ms=3628, data={name=hw_platform}
+timestamp=[2021-06-21 04:17:48], mode=PLATFORM_GENERATION, duration=0:00:03.405, duration_ms=3405, data={name=hw_platform}
+timestamp=[2021-06-21 04:17:52], mode=BUILD, duration=0:00:00.821, duration_ms=821, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 04:20:01], mode=BUILD, duration=0:00:02.241, duration_ms=2241, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 04:22:07], mode=BUILD, duration=0:00:01.681, duration_ms=1681, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 04:25:06], mode=BUILD, duration=0:00:01.562, duration_ms=1562, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 04:25:24], mode=BUILD, duration=0:00:01.488, duration_ms=1488, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 04:36:34], mode=PLATFORM_GENERATION, duration=0:00:03.299, duration_ms=3299, data={name=hw_platform}
+timestamp=[2021-06-21 04:37:20], mode=BUILD, duration=0:00:00.537, duration_ms=537, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 05:00:39], mode=PLATFORM_GENERATION, duration=0:00:03.290, duration_ms=3290, data={name=hw_platform}
+timestamp=[2021-06-21 05:01:36], mode=BUILD, duration=0:00:00.466, duration_ms=466, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 05:02:58], mode=BUILD, duration=0:00:02.135, duration_ms=2135, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 05:26:39], mode=PLATFORM_GENERATION, duration=0:00:03.524, duration_ms=3524, data={name=hw_platform}
+timestamp=[2021-06-21 05:27:12], mode=BUILD, duration=0:00:00.593, duration_ms=593, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 05:45:19], mode=PLATFORM_GENERATION, duration=0:00:03.486, duration_ms=3486, data={name=hw_platform}
+timestamp=[2021-06-21 05:45:37], mode=BUILD, duration=0:00:00.468, duration_ms=468, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 06:46:01], mode=PLATFORM_GENERATION, duration=0:00:03.605, duration_ms=3605, data={name=hw_platform}
+timestamp=[2021-06-21 06:46:24], mode=BUILD, duration=0:00:00.972, duration_ms=972, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 07:06:39], mode=PLATFORM_GENERATION, duration=0:00:03.388, duration_ms=3388, data={name=hw_platform}
+timestamp=[2021-06-21 07:07:18], mode=BUILD, duration=0:00:00.537, duration_ms=537, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 07:24:28], mode=PLATFORM_GENERATION, duration=0:00:03.831, duration_ms=3831, data={name=hw_platform}
+timestamp=[2021-06-21 07:24:37], mode=BUILD, duration=0:00:00.543, duration_ms=543, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 07:25:01], mode=BUILD, duration=0:00:00.538, duration_ms=538, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 07:34:02], mode=PLATFORM_GENERATION, duration=0:00:03.291, duration_ms=3291, data={name=hw_platform}
+timestamp=[2021-06-21 07:34:20], mode=BUILD, duration=0:00:00.476, duration_ms=476, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 07:56:57], mode=PLATFORM_GENERATION, duration=0:00:03.798, duration_ms=3798, data={name=hw_platform}
+timestamp=[2021-06-21 07:57:19], mode=BUILD, duration=0:00:00.537, duration_ms=537, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 08:16:47], mode=PLATFORM_GENERATION, duration=0:00:03.123, duration_ms=3123, data={name=hw_platform}
+timestamp=[2021-06-21 08:16:57], mode=BUILD, duration=0:00:00.470, duration_ms=470, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 16:45:49], mode=WORKBENCH_START, duration=0:00:20.855, duration_ms=20855, data={}
+timestamp=[2021-06-21 16:45:51], mode=WORKBENCH_UI_INIT, duration=0:00:01.995, duration_ms=1995, data={editors_count=4, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform,lwip_test,lwip_test_system}
+timestamp=[2021-06-21 16:45:52], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.102, duration_ms=102, data={}
+timestamp=[2021-06-21 17:00:02], mode=PLATFORM_GENERATION, duration=0:00:07.111, duration_ms=7111, data={name=hw_platform}
+timestamp=[2021-06-21 17:00:31], mode=BUILD, duration=0:00:01.035, duration_ms=1035, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 17:21:13], mode=PLATFORM_GENERATION, duration=0:00:03.406, duration_ms=3406, data={name=hw_platform}
+timestamp=[2021-06-21 17:21:38], mode=BUILD, duration=0:00:00.878, duration_ms=878, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 17:41:55], mode=PLATFORM_GENERATION, duration=0:00:03.600, duration_ms=3600, data={name=hw_platform}
+timestamp=[2021-06-21 17:42:05], mode=BUILD, duration=0:00:00.495, duration_ms=495, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 18:24:24], mode=WORKBENCH_START, duration=0:00:25.408, duration_ms=25408, data={}
+timestamp=[2021-06-21 18:24:26], mode=WORKBENCH_UI_INIT, duration=0:00:01.941, duration_ms=1941, data={editors_count=4, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform,lwip_test,lwip_test_system}
+timestamp=[2021-06-21 18:24:27], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.080, duration_ms=80, data={}
+timestamp=[2021-06-21 18:37:08], mode=PLATFORM_GENERATION, duration=0:00:05.095, duration_ms=5095, data={name=hw_platform}
+timestamp=[2021-06-21 18:37:34], mode=BUILD, duration=0:00:00.972, duration_ms=972, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 18:52:50], mode=PLATFORM_GENERATION, duration=0:00:06.334, duration_ms=6334, data={name=hw_platform}
+timestamp=[2021-06-21 18:53:01], mode=BUILD, duration=0:00:00.711, duration_ms=711, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 19:04:44], mode=PLATFORM_GENERATION, duration=0:00:05.853, duration_ms=5853, data={name=hw_platform}
+timestamp=[2021-06-21 19:04:59], mode=BUILD, duration=0:00:00.652, duration_ms=652, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 19:15:41], mode=PLATFORM_GENERATION, duration=0:00:02.959, duration_ms=2959, data={name=hw_platform}
+timestamp=[2021-06-21 19:15:50], mode=BUILD, duration=0:00:00.514, duration_ms=514, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 19:22:41], mode=PLATFORM_GENERATION, duration=0:00:03.176, duration_ms=3176, data={name=hw_platform}
+timestamp=[2021-06-21 19:22:50], mode=BUILD, duration=0:00:00.458, duration_ms=458, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 19:33:09], mode=PLATFORM_GENERATION, duration=0:00:02.873, duration_ms=2873, data={name=hw_platform}
+timestamp=[2021-06-21 19:33:18], mode=BUILD, duration=0:00:00.393, duration_ms=393, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 19:43:52], mode=PLATFORM_GENERATION, duration=0:00:03.124, duration_ms=3124, data={name=hw_platform}
+timestamp=[2021-06-21 19:44:00], mode=BUILD, duration=0:00:00.393, duration_ms=393, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 20:32:44], mode=PLATFORM_GENERATION, duration=0:00:03.377, duration_ms=3377, data={name=hw_platform}
+timestamp=[2021-06-21 20:32:59], mode=BUILD, duration=0:00:00.852, duration_ms=852, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-21 21:21:48], mode=PLATFORM_GENERATION, duration=0:00:03.294, duration_ms=3294, data={name=hw_platform}
+timestamp=[2021-06-21 21:21:56], mode=BUILD, duration=0:00:00.470, duration_ms=470, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 01:29:59], mode=WORKBENCH_START, duration=0:00:21.847, duration_ms=21847, data={}
+timestamp=[2021-06-22 01:30:00], mode=WORKBENCH_UI_INIT, duration=0:00:01.645, duration_ms=1645, data={editors_count=4, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform,lwip_test,lwip_test_system}
+timestamp=[2021-06-22 01:30:00], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.074, duration_ms=74, data={}
+timestamp=[2021-06-22 01:34:16], mode=PLATFORM_GENERATION, duration=0:00:03.430, duration_ms=3430, data={name=hw_platform}
+timestamp=[2021-06-22 01:34:28], mode=BUILD, duration=0:00:01.075, duration_ms=1075, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 01:43:44], mode=PLATFORM_GENERATION, duration=0:00:03.611, duration_ms=3611, data={name=hw_platform}
+timestamp=[2021-06-22 01:43:54], mode=BUILD, duration=0:00:00.571, duration_ms=571, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 01:53:47], mode=PLATFORM_GENERATION, duration=0:00:03.355, duration_ms=3355, data={name=hw_platform}
+timestamp=[2021-06-22 01:53:57], mode=BUILD, duration=0:00:00.465, duration_ms=465, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 02:04:58], mode=PLATFORM_GENERATION, duration=0:00:03.300, duration_ms=3300, data={name=hw_platform}
+timestamp=[2021-06-22 02:05:08], mode=BUILD, duration=0:00:00.535, duration_ms=535, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 02:11:06], mode=PLATFORM_GENERATION, duration=0:00:03.243, duration_ms=3243, data={name=hw_platform}
+timestamp=[2021-06-22 02:11:11], mode=BUILD, duration=0:00:00.501, duration_ms=501, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 02:14:05], mode=BUILD, duration=0:00:03.601, duration_ms=3601, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 02:27:16], mode=BUILD, duration=0:00:02.143, duration_ms=2143, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 02:31:43], mode=PLATFORM_GENERATION, duration=0:00:03.380, duration_ms=3380, data={name=hw_platform}
+timestamp=[2021-06-22 02:32:05], mode=BUILD, duration=0:00:00.500, duration_ms=500, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 02:41:08], mode=BUILD, duration=0:00:02.198, duration_ms=2198, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 02:41:48], mode=BUILD, duration=0:00:01.640, duration_ms=1640, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 02:42:26], mode=BUILD, duration=0:00:01.558, duration_ms=1558, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 03:08:50], mode=PLATFORM_GENERATION, duration=0:00:03.356, duration_ms=3356, data={name=hw_platform}
+timestamp=[2021-06-22 03:09:02], mode=BUILD, duration=0:00:00.652, duration_ms=652, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 03:19:25], mode=PLATFORM_GENERATION, duration=0:00:03.364, duration_ms=3364, data={name=hw_platform}
+timestamp=[2021-06-22 03:19:34], mode=BUILD, duration=0:00:00.460, duration_ms=460, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 03:34:36], mode=PLATFORM_GENERATION, duration=0:00:03.240, duration_ms=3240, data={name=hw_platform}
+timestamp=[2021-06-22 03:34:47], mode=BUILD, duration=0:00:00.472, duration_ms=472, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 03:51:23], mode=PLATFORM_GENERATION, duration=0:00:03.504, duration_ms=3504, data={name=hw_platform}
+timestamp=[2021-06-22 03:51:43], mode=BUILD, duration=0:00:00.472, duration_ms=472, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 04:01:25], mode=PLATFORM_GENERATION, duration=0:00:03.330, duration_ms=3330, data={name=hw_platform}
+timestamp=[2021-06-22 04:01:35], mode=BUILD, duration=0:00:00.475, duration_ms=475, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 04:38:58], mode=PLATFORM_GENERATION, duration=0:00:03.566, duration_ms=3566, data={name=hw_platform}
+timestamp=[2021-06-22 04:39:14], mode=BUILD, duration=0:00:04.018, duration_ms=4018, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 04:43:19], mode=BUILD, duration=0:00:01.549, duration_ms=1549, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 04:43:33], mode=BUILD, duration=0:00:01.539, duration_ms=1539, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 04:44:53], mode=BUILD, duration=0:00:01.633, duration_ms=1633, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 04:45:53], mode=BUILD, duration=0:00:01.605, duration_ms=1605, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 04:50:33], mode=BUILD, duration=0:00:01.559, duration_ms=1559, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 05:03:12], mode=BUILD, duration=0:00:02.405, duration_ms=2405, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 05:12:16], mode=PLATFORM_GENERATION, duration=0:00:03.650, duration_ms=3650, data={name=hw_platform}
+timestamp=[2021-06-22 05:12:31], mode=BUILD, duration=0:00:00.432, duration_ms=432, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 06:36:32], mode=BUILD, duration=0:00:01.756, duration_ms=1756, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 06:40:10], mode=BUILD, duration=0:00:01.306, duration_ms=1306, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 20:49:46], mode=WORKBENCH_START, duration=0:00:19.619, duration_ms=19619, data={}
+timestamp=[2021-06-22 20:49:47], mode=WORKBENCH_UI_INIT, duration=0:00:01.232, duration_ms=1232, data={editors_count=4, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform,lwip_test,lwip_test_system}
+timestamp=[2021-06-22 20:49:47], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.227, duration_ms=227, data={}
+timestamp=[2021-06-22 20:50:56], mode=BUILD, duration=0:00:04.644, duration_ms=4644, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 20:51:26], mode=PLATFORM_GENERATION, duration=0:00:06.027, duration_ms=6027, data={name=hw_platform}
+timestamp=[2021-06-22 20:51:32], mode=BUILD, duration=0:00:00.502, duration_ms=502, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 20:51:43], mode=BUILD, duration=0:00:00.563, duration_ms=563, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 22:44:35], mode=WORKBENCH_START, duration=0:00:23.751, duration_ms=23751, data={}
+timestamp=[2021-06-22 22:44:37], mode=WORKBENCH_UI_INIT, duration=0:00:01.980, duration_ms=1980, data={editors_count=4, platform_editors_count=2, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform,lwip_test,lwip_test_system}
+timestamp=[2021-06-22 22:44:40], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.094, duration_ms=94, data={}
+timestamp=[2021-06-22 22:54:43], mode=BUILD, duration=0:00:03.691, duration_ms=3691, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 22:55:31], mode=BUILD, duration=0:00:01.775, duration_ms=1775, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 22:56:31], mode=BUILD, duration=0:00:01.723, duration_ms=1723, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 22:57:35], mode=BUILD, duration=0:00:01.621, duration_ms=1621, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 23:31:53], mode=PLATFORM_GENERATION, duration=0:00:03.821, duration_ms=3821, data={name=hw_platform}
+timestamp=[2021-06-22 23:31:55], mode=BUILD, duration=0:00:02.062, duration_ms=2062, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 23:32:36], mode=BUILD, duration=0:00:01.579, duration_ms=1579, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-22 23:42:41], mode=PLATFORM_GENERATION, duration=0:00:04.129, duration_ms=4129, data={name=hw_platform}
+timestamp=[2021-06-22 23:43:01], mode=BUILD, duration=0:00:00.536, duration_ms=536, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:08:38], mode=BUILD, duration=0:00:01.504, duration_ms=1504, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:13:44], mode=BUILD, duration=0:00:00.930, duration_ms=930, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:13:58], mode=BUILD, duration=0:00:01.937, duration_ms=1937, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:32:31], mode=PLATFORM_GENERATION, duration=0:01:11.425, duration_ms=71425, data={name=hw_platform}
+timestamp=[2021-06-23 00:35:46], mode=BUILD, duration=0:00:02.686, duration_ms=2686, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:40:20], mode=PLATFORM_GENERATION, duration=0:00:45.495, duration_ms=45495, data={name=hw_platform}
+timestamp=[2021-06-23 00:40:31], mode=BUILD, duration=0:00:02.319, duration_ms=2319, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:43:14], mode=BUILD, duration=0:00:01.558, duration_ms=1558, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:44:25], mode=BUILD, duration=0:00:01.570, duration_ms=1570, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:45:22], mode=BUILD, duration=0:00:01.625, duration_ms=1625, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:47:25], mode=BUILD, duration=0:00:01.785, duration_ms=1785, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:49:10], mode=BUILD, duration=0:00:01.558, duration_ms=1558, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:55:12], mode=BUILD, duration=0:00:02.352, duration_ms=2352, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:56:50], mode=BUILD, duration=0:00:01.759, duration_ms=1759, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 00:59:21], mode=PLATFORM_GENERATION, duration=0:00:03.797, duration_ms=3797, data={name=hw_platform}
+timestamp=[2021-06-23 00:59:40], mode=BUILD, duration=0:00:00.486, duration_ms=486, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 01:00:52], mode=BUILD, duration=0:00:02.503, duration_ms=2503, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 01:02:35], mode=BUILD, duration=0:00:01.550, duration_ms=1550, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 01:03:47], mode=BUILD, duration=0:00:01.501, duration_ms=1501, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 01:04:29], mode=BUILD, duration=0:00:01.498, duration_ms=1498, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 01:05:33], mode=BUILD, duration=0:00:01.581, duration_ms=1581, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 02:01:42], mode=PLATFORM_GENERATION, duration=0:00:03.962, duration_ms=3962, data={name=hw_platform}
+timestamp=[2021-06-23 02:02:01], mode=BUILD, duration=0:00:00.535, duration_ms=535, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 02:06:55], mode=WORKBENCH_START, duration=0:00:16.586, duration_ms=16586, data={}
+timestamp=[2021-06-23 02:06:57], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.060, duration_ms=60, data={}
+timestamp=[2021-06-23 02:06:57], mode=WORKBENCH_UI_INIT, duration=0:00:01.684, duration_ms=1684, data={editors_count=5, platform_editors_count=3, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform,lwip_test,lwip_test_system}
+timestamp=[2021-06-23 02:07:59], mode=PLATFORM_GENERATION, duration=0:00:05.660, duration_ms=5660, data={name=hw_platform}
+timestamp=[2021-06-23 02:08:15], mode=BUILD, duration=0:00:03.602, duration_ms=3602, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 03:00:00], mode=BUILD, duration=0:00:03.079, duration_ms=3079, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 03:02:34], mode=BUILD, duration=0:00:01.874, duration_ms=1874, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 03:03:30], mode=BUILD, duration=0:00:01.549, duration_ms=1549, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 03:33:42], mode=BUILD, duration=0:00:01.920, duration_ms=1920, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 03:36:01], mode=BUILD, duration=0:00:00.480, duration_ms=480, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 03:36:45], mode=PLATFORM_GENERATION, duration=0:00:07.845, duration_ms=7845, data={name=hw_platform}
+timestamp=[2021-06-23 03:38:36], mode=PLATFORM_GENERATION, duration=0:01:45.884, duration_ms=105884, data={name=hw_platform}
+timestamp=[2021-06-23 03:38:56], mode=PLATFORM_GENERATION, duration=0:00:06.064, duration_ms=6064, data={name=hw_platform}
+timestamp=[2021-06-23 03:38:56], mode=BUILD, duration=0:00:00.235, duration_ms=235, data={name=Data_Acq_App, configuration=Debug, clean_build=true}
+timestamp=[2021-06-23 03:40:21], mode=PLATFORM_GENERATION, duration=0:01:18.778, duration_ms=78778, data={name=hw_platform}
+timestamp=[2021-06-23 03:40:28], mode=BUILD, duration=0:00:03.092, duration_ms=3092, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 03:41:12], mode=BUILD, duration=0:00:01.234, duration_ms=1234, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 03:46:56], mode=BUILD, duration=0:00:01.232, duration_ms=1232, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 03:50:00], mode=WORKBENCH_START, duration=0:00:19.478, duration_ms=19478, data={}
+timestamp=[2021-06-23 03:50:02], mode=WORKBENCH_UI_INIT, duration=0:00:01.708, duration_ms=1708, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform}
+timestamp=[2021-06-23 03:50:02], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.131, duration_ms=131, data={}
+timestamp=[2021-06-23 04:07:26], mode=WORKBENCH_START, duration=0:00:14.672, duration_ms=14672, data={}
+timestamp=[2021-06-23 04:07:27], mode=WORKBENCH_UI_INIT, duration=0:00:01.297, duration_ms=1297, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform}
+timestamp=[2021-06-23 04:07:27], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.069, duration_ms=69, data={}
+timestamp=[2021-06-23 04:23:06], mode=PLATFORM_GENERATION, duration=0:00:40.811, duration_ms=40811, data={name=hw_platform}
+timestamp=[2021-06-23 04:23:09], mode=BUILD, duration=0:00:02.532, duration_ms=2532, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 23:28:13], mode=WORKBENCH_START, duration=0:00:17.511, duration_ms=17511, data={}
+timestamp=[2021-06-23 23:28:15], mode=WORKBENCH_UI_INIT, duration=0:00:01.307, duration_ms=1307, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Data_Acq_App,Data_Acq_App_system,RemoteSystemsTempFiles,hw_platform}
+timestamp=[2021-06-23 23:28:15], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.188, duration_ms=188, data={}
+timestamp=[2021-06-23 23:29:14], mode=BUILD, duration=0:00:03.765, duration_ms=3765, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 23:32:37], mode=BUILD, duration=0:00:01.638, duration_ms=1638, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 23:33:14], mode=BUILD, duration=0:00:01.603, duration_ms=1603, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 23:35:16], mode=BUILD, duration=0:00:01.500, duration_ms=1500, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 23:36:52], mode=BUILD, duration=0:00:00.416, duration_ms=416, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-23 23:41:36], mode=BUILD, duration=0:00:01.697, duration_ms=1697, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-24 00:33:55], mode=BUILD, duration=0:00:03.195, duration_ms=3195, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-24 00:36:30], mode=BUILD, duration=0:00:01.574, duration_ms=1574, data={name=Data_Acq_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-24 00:39:27], mode=BUILD, duration=0:00:00.432, duration_ms=432, data={name=Data_Acq_App, configuration=Debug, clean_build=false}

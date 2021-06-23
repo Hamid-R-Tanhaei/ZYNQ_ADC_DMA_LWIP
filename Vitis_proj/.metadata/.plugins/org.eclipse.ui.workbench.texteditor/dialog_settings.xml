@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="rtos"/>
+			<item value="DmaRxBufferPtr"/>
+			<item value="gpio"/>
+			<item value="4021"/>
+			<item value="4020"/>
+			<item value="Dma_Tranfer"/>
+			<item value="9277"/>
+			<item value="IicPsMasterPolled_AD9577"/>
+			<item value="0xE000A000"/>
+			<item value="iPinNumberEMIO"/>
+			<item value="GpioConfigPtr"/>
+			<item value="XPAR_PS7_GPIO_0_BASEADDR"/>
+			<item value="1024"/>
+			<item value="1023"/>
+			<item value="dma"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="362" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="490" key="DIALOG_HEIGHT"/>
+		<item value="1334" key="DIALOG_X_ORIGIN"/>
+		<item value="165" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

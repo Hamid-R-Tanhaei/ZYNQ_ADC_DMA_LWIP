@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Data_Acq_App" key="programflash.hwplatform"/>
+	<item value="D:/Data_Acq/Vitis_proj/hw_platform/export/hw_platform/sw/hw_platform/boot/fsbl.elf" key="Data_Acq_App-fsblFile"/>
+	<item value="Auto Detect" key="Data_Acq_App-device"/>
+	<item value="" key="Data_Acq_App-offSet"/>
+	<item value="true" key="Data_Acq_App-blankCheck"/>
+	<item value="Local" key="Data_Acq_App-target"/>
+	<item value="true" key="Data_Acq_App-verifyFlash"/>
+	<item value="D:/Data_Acq/Vitis_proj/Data_Acq_App/_ide/bootimage/BOOT.bin" key="Data_Acq_App-imgFile"/>
+	<item value="qspi-x4-single" key="Data_Acq_App-flashType"/>
+</section>

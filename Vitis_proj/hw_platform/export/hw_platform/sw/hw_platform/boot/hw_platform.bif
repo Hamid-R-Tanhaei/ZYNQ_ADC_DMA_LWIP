@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]D:\Data_Acq\Vitis_proj\hw_platform\export\hw_platform\sw\hw_platform\boot\fsbl.elf
+	D:\Data_Acq\Vitis_proj\Data_Acq_App\_ide\bitstream\design_1_wrapper.bit
+	D:\Data_Acq\Vitis_proj\Data_Acq_App\Debug\Data_Acq_App.elf
+}

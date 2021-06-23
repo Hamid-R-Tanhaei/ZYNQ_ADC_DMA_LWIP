@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Data_Acq_App" location="D:/Data_Acq/Data_Acq_1/vitis_sw/Data_Acq_App" platform="D:/Data_Acq/Data_Acq_1/vitis_sw/hw_platform/export/hw_platform/hw_platform.xpfm" platformUID="xilinx:mys-7z020::0.0(custom)" systemProject="Data_Acq_App_system" sysConfig="hw_platform" runtime="C/C++" cpu="freertos10_xilinx_domain" cpuInstance="ps7_cortexa9_0" os="freertos10_xilinx" mssSignature="810aaf618f04a1f5d1495b4c88991775">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1463478558">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1865166085" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="freertos_lwip_tcp_perf_server" hasBspSettings="true"/>
+</sdkproject:SdkProject>
